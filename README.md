@@ -20,6 +20,4 @@ Me chamo Derick Darlan, estou no 3º semestre em **Engenharia de Software** e pr
 - **C/C++** para performance e baixo nível
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerickRiso&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&layout=compact&bg_color=00000000&rank_icon=github&card_width=400&line_height=20&langs_count=5&locale=pt-br)
-
-![Status github Derick](https://github-readme-stats.vercel.app/api?username=DerickRiso&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerickRiso&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&layout=compact&bg_color=00000000&rank_icon=github&card_width=500&line_height=20&langs_count=5&locale=pt-br)
