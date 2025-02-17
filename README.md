@@ -16,7 +16,7 @@ Me chamo Derick Darlan, estou no 3º semestre em **Engenharia de Software** e pr
 
 ## Próximos passos🔭
 - **Typescript**
-- Desenvolvimento desktop com **.NET**
+- Desenvolvimento de games com **C#**
 - **C/C++** para performance e baixo nível
 
 
