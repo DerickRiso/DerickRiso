@@ -3,19 +3,19 @@
 
 
 
-Me chamo Derick Darlan, estou no 3º semestre em **Engenharia de Software** e procuro sempre projetar, construir e implementar software para resolver problemas reais🧮.
+Me chamo Derick Darlan, estou no 3º semestre em **Engenharia de Software**.
 
 
 ## Tecnologias💻
 - **HTML, CSS e Javascript** (intermediário)
 - **Typescript** (básico)
 
-## Sobre aprendizado📖
-- Aprendendo **Java** e **orientação à objetos**
+## O que ando estudando📖
+- Aprendendo **Typescript**
 - **Modelagem de sistemas**
 
 ## Próximos passos🔭
-- **Typescript**
+- **Java** e **orientação à objetos**
 - Desenvolvimento de games com **C#**
 - **C/C++** para performance e baixo nível
 
