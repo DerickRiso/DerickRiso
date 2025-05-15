@@ -13,6 +13,7 @@ Me chamo Derick Darlan, estou no 3º semestre em **Engenharia de Software**.
 ## O que ando estudando📖
 - Aprendendo **Typescript**
 - **Modelagem de sistemas**
+- Desenvolvimento backend com **Postgre e nodeJS**
 
 ## Próximos passos🔭
 - Desenvolvimento **.NET**
